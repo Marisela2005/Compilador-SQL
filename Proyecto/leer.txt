@@ -1,0 +1,10 @@
+INSERT INTO productos (codigo, nombre, precio) VALUES ('LLMS', 'Laptop', 1200.50);
+
+
+
+
+
+
+
+
+
