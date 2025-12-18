@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1766002374 source:c:\users\dell i7\documents\c++\ejercicios\arreglos\analizador_semantico\main.cpp
-	<iostream>
-	<fstream>
-	<string>
-
