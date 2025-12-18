@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1765966035 source:c:\users\dell i7\documents\c++\ejercicios\arreglos\analizador_lexico\main.cpp
-	<iostream>
-	<fstream>
-	<string>
-
