@@ -1,0 +1,13 @@
+SELECT nombre, edad FROM usuarios WHERE edad > 21 AND salario < 50.00;
+UPDATE productos SET precio = precio * 1.10 WHERE stock > 0;
+INSERT INTO estudiantes (nombre, carrera, promedio) VALUES ('Maria', 'Ingenieria', 8.5);
+DELETE FROM clientes WHERE estado = 'inactivo';
+
+
+
+
+
+
+
+
+
